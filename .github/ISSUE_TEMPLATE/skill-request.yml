@@ -2,6 +2,8 @@ name: Skill Request
 description: Request a new marketing skill
 title: "Skill Request: [skill-name]"
 labels: ["enhancement"]
+disabled: true
+
 body:
   - type: markdown
     attributes:
